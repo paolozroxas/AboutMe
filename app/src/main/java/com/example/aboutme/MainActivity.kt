@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
 
     private fun editName(view: View) {
         binding.myName?.name = binding.editName.text.toString()
+        binding.editName.text.clear()
         binding.invalidateAll()
     }
 }
