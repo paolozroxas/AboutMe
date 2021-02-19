@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="done_button_text">Done</string>
+</resources>
